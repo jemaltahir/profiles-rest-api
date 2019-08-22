@@ -2,5 +2,6 @@
     "cSpell.words": [
         "systemctl",
         "venv"
-    ]
+    ],
+    "python.linting.enabled": true
 }
